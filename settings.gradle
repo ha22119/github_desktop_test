@@ -1,0 +1,2 @@
+rootProject.name='txt_Talk'
+include ':app'
