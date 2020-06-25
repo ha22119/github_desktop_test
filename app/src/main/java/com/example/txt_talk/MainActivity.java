@@ -1,3 +1,5 @@
+// 야호야호 주석이당
+
 package com.example.txt_talk;
 
 import androidx.annotation.NonNull;
